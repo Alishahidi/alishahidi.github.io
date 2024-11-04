@@ -159,6 +159,7 @@ giscus:
   theme: noborder_dark # name of the color scheme (preferred works well with al-folio light/dark mode)
   emit_metadata: 0
   lang: en
+  loading
 
 # Disqus comments (DEPRECATED)
 disqus_shortname: ali-shahidi # put your disqus shortname
