@@ -5,6 +5,7 @@ date: 2024-11-04 09:00:00
 description: An introduction to my blog, my journey, and what’s coming next.
 tags: introduction personal
 categories: blog
+giscus_comments: true
 ---
 
 Welcome to my blog! I’m excited to finally launch this space where I’ll be sharing insights, experiences, and ideas on topics that I’m passionate about. Writing has always helped me reflect and connect with others, and this blog is a way for me to dive deeper into these conversations.
