@@ -1,14 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - alishahidi
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - alishahidi/arch-boot
+  - alishahidi/apantos
+  - alishahidi/aptsos
+  - alishahidi/dotfiles
+  - alishahidi/routing-reporter
+  - alishahidi/PDF-Rend
+  - alishahidi/secenc
+  - alishahidi/dgLinker
+  - alishahidi/Youtube-Dl
